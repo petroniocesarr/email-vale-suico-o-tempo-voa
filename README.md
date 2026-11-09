@@ -30,3 +30,4 @@ Você pode visualizar o layout responsivo diretamente no link do GitHub Pages:
 - `VALE-SUICO_EMAIL_O-TEMPO-VOA_DESKTOP.png`: Renderização completa Desktop.
 - `VALE-SUICO_EMAIL_O-TEMPO-VOA_MOBILE.png`: Renderização completa Mobile.
 - `VALE-SUICO_EMAIL_O-TEMPO-VOA.zip`: Arquivo zipado pronto para importação em plataformas de disparo.
+
